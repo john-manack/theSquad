@@ -1,6 +1,17 @@
-# Front-end project from theSquad
+# weatherSquad - Not Your Average Weather App
 
-- Kurtis Garcia
-- Sean MacEachern
-- Patrick Collins
-- John Manack
+## Link To Live Site
+
+[Click Here to see the live site, deployed on Netlify](https://weathersquad.netlify.app/)
+
+## Summary
+
+A fully responsive, beautiful, and delightfully simple weather app that brings you more than the current weather. A poignant quote reflecting your locations weather conditions provides a new dimension to simply checking the weather. In addition, if the weather is dreary, keep scrolling for a joke to cheer you up!
+
+## Technologies
+
+* JavaScript
+* HTML
+* CSS
+* OpenWeatherMap API
+* Local JSON API (US States)
