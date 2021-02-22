@@ -3,6 +3,7 @@
 ## Link To Live Site
 
 [Click Here to see the live site, deployed on Netlify](https://weathersquad.netlify.app/)
+<a href="https://weathersquad.netlify.app/" target="_blank">Click Here to see the live site, deployed on Netlify</a>
 
 ## Summary
 
